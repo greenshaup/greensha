@@ -64,7 +64,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-color: #eae6f5;
+  background-color: #9e8411;
 }
 
 .sub_page .hero_area {
@@ -82,7 +82,7 @@ body {
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 7px 20px;
   margin: 10px 15px;
-  color: #000000;
+  color: #3e0606;
   text-align: center;
   border-radius: 35px;
   text-transform: uppercase;
@@ -90,7 +90,7 @@ body {
 }
 
 .custom_nav-container .navbar-nav .nav-item.active .nav-link, .custom_nav-container .navbar-nav .nav-item:hover .nav-link {
-  background-color: #4b208c;
+  background-color: #750b16;
   color: #ffffff;
 }
 
@@ -140,7 +140,7 @@ a:focus {
 .navbar-brand span {
   font-size: 22px;
   font-weight: 700;
-  color: #4b208c;
+  color: #100f11;
 }
 
 .custom_nav-container {
@@ -238,14 +238,14 @@ a:focus {
 .slider_section .detail_box a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #4b208c;
+  background-color: #8c4b20;
   color: #ffffff;
   border-radius: 35px;
   margin-top: 35px;
 }
 
 .slider_section .detail_box a:hover {
-  background-color: #5625a1;
+  background-color: #0b011a;
 }
 
 .slider_section .img_container {
